@@ -194,6 +194,7 @@ def reset_and_set_commands():
     # General users ke liye commands
     general_commands = [
         {"command": "start", "description": "✅ Check Alive the Bot"},
+        {"command": "txt", "description": "👀 upload txt file"},
         {"command": "stop", "description": "🚫 Stop the ongoing process"},
         {"command": "id", "description": "🆔 Get Your ID"},
         {"command": "info", "description": "ℹ️ Check Your Information"},
