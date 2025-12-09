@@ -49,7 +49,7 @@ def register_commands_handlers(bot):
             f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n" 
             f"📌 𝗠𝗮𝗶𝗻 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n"  
             f"➥ /start – Bot Status Check\n"
-            f"➥ /drm - .drm →.txt leech
+            f"➥ /drm - drm →.txt leech
             f"➥ /y2t – YouTube → .txt Converter\n"  
             f"➥ /ytm – YouTube → .mp3 downloader\n"  
             f"➥ /t2t – Text → .txt Generator\n"
